@@ -120,7 +120,7 @@ Welcome to Introduction to Python. This is the repository for Python mini-course
   - Clone your repository: `git clone YOUR_REPO_LINK`
 
 5. Repository Git Setup
-  - cd into your project repository `cd /python-mini-course`
+  - cd into your project repository `cd python-mini-course`
   - add remote class directory `git remote add class https://github.com/python-mini-course/python-mini-course.git`
 
 6. Commit
